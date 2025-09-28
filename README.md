@@ -9,5 +9,3 @@ Link to Dataset: https://www.kaggle.com/datasets/taweilo/loan-approval-classific
 # Last Page of App:
 ![appimage]( https://github.com/llinzy/Loan-Approval-App/blob/main/Last%20Page.png)
 
-![appimage](https://github.com/llinzy/Machine-Learning-Extramarital-Affair-App/blob/main/datasetdetails.png)
-
