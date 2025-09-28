@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Loan Approval Web Application</title>
+    <meta charset="utf-8">
+	<meta name="author" content="Lakysha Rochell Linzy">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1,user-scalable=no">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+  
+
+    <div class="center" , method="get">
+	<form action="{{url_for('index')}}" method="post">
+    
+	<br><br>
+	<h1> {{prediction_text}} </h1>
+<button type="submit" class="pred-btn"> Return to start </button>
+</form>
+</div>
+
+</body>
+
+</html>

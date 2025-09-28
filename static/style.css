@@ -1,0 +1,47 @@
+body {
+    
+    color: black;
+    font-family: Arial, sans-serif;
+	text-align:center;
+	background-image:
+	url('backgroundphoto.png');
+	background-color: white;
+	height:30%;
+	width:100%
+}
+.center{
+	padding:270px 0;
+		
+}
+p{
+	text-align: center;
+	background-color: white;
+}
+form{
+	text-align:center;
+	background-color: white;
+}
+select{
+	text-align:center;
+	
+}
+button{
+	text-align:center;
+	
+}
+option{
+	text-align:center;
+	
+}
+h1{
+	text-align:center;
+	background-color: white;
+}
+h2{
+	text-align:center;
+	background-color: white;
+}
+h3{
+	text-align:center;
+	background-color: white;
+}

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Loan Approval Web Application</title>
+    <meta charset="utf-8">
+	<meta name="author" content="Lakysha Rochell Linzy">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1,user-scalable=no">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+</head>
+
+<body>
+	<div class="center">
+	<form action="{{url_for('QuestionOne')}}" >
+   
+    
+    <h1>How Likely Will You Be Approved For the Loan? </h1>
+    <p> Make your selections to determine if you will likely be approved for the loan</p>
+    <br><br>
+    
+			<h2>Select continue to proceed</h2>
+        
+		<br><br>
+        
+        <button type="submit" class="pred-btn"> Continue </button>
+
+
+
+</form>
+</div>
+</body>
+
+</html>
